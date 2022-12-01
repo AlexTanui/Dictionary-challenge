@@ -1,0 +1,24 @@
+{
+  "name": "dictionary-challenge",
+  "version": "1.0.0",
+  "description": "dictionary using api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTanui/Dictionary-challenge.git"
+  },
+  "keywords": [
+    "dictionary",
+    "api",
+    "words"
+  ],
+  "author": "Alex Tanui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTanui/Dictionary-challenge/issues"
+  },
+  "homepage": "https://github.com/AlexTanui/Dictionary-challenge#readme"
+}
